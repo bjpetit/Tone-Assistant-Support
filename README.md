@@ -8,7 +8,7 @@ This repository hosts the public support site for the Tone Assistant app as a pl
 2. Set **Source** to deploy from the `main` branch and the `/ (root)` folder.
 3. Save the settings.
 
-The homepage is `index.html` at the repository root (with `styles.css` for styling).
+The existing homepage is `index.html` at the repository root (with existing `styles.css` for styling).
 
 Your support site will be published at:
 
